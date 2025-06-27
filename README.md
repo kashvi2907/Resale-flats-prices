@@ -1,2 +1,2 @@
 # Resale-flats-prices
-Project on resale flat prices
+Machine learning project on resale flat prices
